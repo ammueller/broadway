@@ -17,9 +17,37 @@ font-weight: bold;
 color: white;
 }
 
-.navhead {
+.navhead,
+.designed {
   background-image: url('../images/the-flatiron-building.png');
 }
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
 h5 {
   display: inline;
+  font-size: 11px;
+  color: white;
+}
+
+.foot {
+  background-color: dimgray;
 }
